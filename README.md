@@ -4,8 +4,8 @@
     </a>
 </div>
 <h1 align="center">Dark Castle for     
-    <a href="https://example.com" target="_blank">
-    [Example Platform]
+    <a href="https://chrome.google.com" target="_blank">
+    Google Chrome
     </a>
 </h1>
 <p align="center">

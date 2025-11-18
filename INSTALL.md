@@ -1,19 +1,5 @@
-### [Example Platform](https://example.com)
+### [Google Chrome](https://chrome.google.com)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep it up to date by cloning the repo:
-
-```bash
-git clone https://github.com/scottgriv/Dark-Castle-Example.git
-```
-
-#### Install Manually
-
-Download using the [GitHub .zip download](https://github.com/scottgriv/Dark-Castle-Example/archive/main.zip) option and unzip them.
-
-#### Activating the Theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Install theme through the [Google Chrome Store](https://chrome.google.com/webstore/detail/).

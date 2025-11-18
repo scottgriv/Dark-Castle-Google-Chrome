@@ -28,9 +28,9 @@
       "omnibox_text": [186, 230, 126],
       "omnibox_background": [0, 0, 0],
 
-      "ntp_background": [26, 26, 26],
-      "ntp_link": [156, 156, 156],
-      "ntp_text": [255, 255, 255]
+      "ntp_background": [0, 0, 0],
+      "ntp_link": [26, 26, 26],
+      "ntp_text": [255, 213, 128]
     }
   }
 }

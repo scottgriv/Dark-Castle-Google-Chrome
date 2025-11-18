@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Dark Castle Theme",
+  "description": "A rich, elegant dark theme for Chrome inspired by medieval castles, blending deep colors with a modern design.",
+  "version": "1.0",
+  "theme": {
+    "colors": {
+      "frame": [26, 26, 26],
+      "frame_inactive": [26, 26, 26],
+      "frame_incognito": [26, 26, 26],
+      "frame_incognito_inactive": [26, 26, 26],
+
+      "bookmark_text": [255, 213, 128],
+
+      "tab_background_text": [156, 156, 156],
+      "tab_background_text_inactive": [156, 156, 156],
+      "tab_background_text_incognito": [156, 156, 156],
+      "tab_background_text_incognito_inactive": [156, 156, 156],
+
+      "tab_text": [0, 123, 136],
+      "tab_background": [65, 100, 255],
+      "tab_selected": [65, 100, 255],
+
+      "toolbar": [0, 0, 0],
+      "toolbar_button_icon": [255, 128, 64],
+      "toolbar_button_icon_inactive": [239, 107, 115],
+
+      "omnibox_text": [186, 230, 126],
+      "omnibox_background": [0, 0, 0],
+
+      "ntp_background": [26, 26, 26],
+      "ntp_link": [156, 156, 156],
+      "ntp_text": [255, 255, 255]
+    }
+  }
+}

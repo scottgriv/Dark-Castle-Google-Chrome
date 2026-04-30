@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Dark Castle Theme",
   "description": "A rich, elegant dark theme for Chrome inspired by medieval castles, blending deep colors with a modern design.",
-  "version": "1.0",
+  "version": "1.0.0",
   "theme": {
     "colors": {
       "frame": [26, 26, 26],
